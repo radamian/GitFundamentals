@@ -1,0 +1,9 @@
+git add -A
+git add -u -->stages update tonext commit (puts it in the staging area)
+git add . -->If we want to stage (add) all changes in the working directory we use
+touch <file name> -->add file
+git reset --hard/soft -->revert and return
+git reset HEAD  --> unstage
+git clean -n
+git clean -r
+git checkout -->the act of switching between different versions of a target entity (revert)
