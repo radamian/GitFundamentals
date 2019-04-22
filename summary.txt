@@ -7,3 +7,4 @@ git reset HEAD  --> unstage
 git clean -n
 git clean -r
 git checkout -->the act of switching between different versions of a target entity (revert)
+git commit -m "Commit message"
